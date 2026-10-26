@@ -5,6 +5,9 @@ public:
 	Base() {
 		cout << "Base class constr" << endl;
 	}
+	~Base() {
+		cout << "Virtual destr" << endl;
+	}
 };
 class Der :public Base {
 public:
