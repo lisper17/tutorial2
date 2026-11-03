@@ -3,3 +3,6 @@
 T T T 
 H H H
 P Q R
+
+int main(){
+}
